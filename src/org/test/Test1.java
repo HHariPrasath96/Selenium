@@ -17,4 +17,8 @@ public class Test1 {
          System.out.println("testing");
 	}
 
+	private void method4() {
+        System.out.println("past");
+	
+	}
 }
